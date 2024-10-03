@@ -1,2 +1,3 @@
 # FirstDemoRepo
-This is my first demo Repository
+This is my first Git Repository
+Author - Avinash Kadam
